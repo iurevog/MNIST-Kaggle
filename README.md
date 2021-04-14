@@ -1,4 +1,4 @@
-# MNIST_Kaggle
+# MNIST Kaggle
 Digit Recognizer
 Competition Description
 
